@@ -1,0 +1,23 @@
+# Ignore simulation output files
+*.out
+*.vcd
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore backup files
+*~
+*.bak
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore compiled files
+*.o
+*.obj
